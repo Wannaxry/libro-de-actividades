@@ -435,7 +435,7 @@ node 'client2' {
     * `puppet agent --server master.nombregrupo --test`: Comprobar el estado del agente puppet.
     * `facter`: Para consultar datos de la máquina windows
     * `puppet resource user profesor`: Para ver la configuración puppet del usuario.
-    * `puppet resource file c:\Users`: Para var la configuración puppet de la carpeta.
+    * `puppet resource file c:\Users`: Para ver la configuración puppet de la carpeta.
 
 ![puppet-resource-windows](./images/puppet-resource-windows.png)
 
