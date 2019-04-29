@@ -343,7 +343,7 @@ Exportar imagen docker a fichero:
 * `docker save -o ~/backupXX.tar nombre-alumno/backupXX`, guardamos la imagen
 "nombre-alumno/backupXX" en un fichero tar.
 
-## 7.2 Inportar
+## 7.2 Importar
 
 Importar imagen docker desde fichero:
 * Nos llevamos el tar a otra máquina con docker instalado, y restauramos.
